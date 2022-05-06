@@ -1,0 +1,41 @@
+.product {
+  position: absolute;
+  margin-top: 700px;
+
+  width: 100%;
+}
+.product-container {
+  display: flex;
+  flex-direction: row;
+  margin-left: 8%;
+}
+.product-container img {
+  height: 180px;
+  width: 50%;
+  
+}
+.product-brand {
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: 10px;
+ 
+
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.pre-btn {
+  position: absolute;
+  margin-top: 9%;
+  margin-left: 2%;
+}
+
+.nxt-btn {
+  position: absolute;
+  margin-top: 9%;
+  margin-left: 96%;
+}
+
+.product-card{
+  margin-left: 6%;
+}

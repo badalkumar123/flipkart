@@ -1,0 +1,31 @@
+.topvavcontainer {
+  position: absolute;
+  margin-top: 70px;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+.mobileicon img {
+  width: 64px;
+  height: 64px;
+  cursor: pointer;
+}
+.mobileicon {
+  margin-left: 3.5%;
+ 
+}
+
+
+
+
+.txt{
+    font-weight: 500;
+    font-size: 14px;
+    width: 200%;
+    
+   
+}
+.txt:hover{
+    color: #2874f0;
+    cursor: pointer
+}
